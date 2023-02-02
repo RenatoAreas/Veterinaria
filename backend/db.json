@@ -1,0 +1,20 @@
+{"animais": [
+  {
+    "id": 1,
+    "nome":"pantera",
+    "raca":"vira-lata",
+    "peso": 4.0
+  },
+  {
+    "id": 2,
+    "nome":"garotinho",
+    "raca":"vira-lata",
+    "peso": 3.0
+  },
+  {
+    "id": 3,
+    "nome":"Cezar Maia",
+    "raca":"vira-lata",
+    "peso": 4.5
+  }
+]}
